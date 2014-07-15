@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://egor598.github.io/sitemap.xml 
+Sitemap: http://cyberdot.co.uk/sitemap.xml 
