@@ -4,7 +4,7 @@
   <title><![CDATA[Cyberdot]]></title>
   <link href="http://cyberdot.co.uk/atom.xml" rel="self"/>
   <link href="http://cyberdot.co.uk/"/>
-  <updated>2014-07-15T21:27:55+01:00</updated>
+  <updated>2014-07-19T23:55:57+01:00</updated>
   <id>http://cyberdot.co.uk/</id>
   <author>
     <name><![CDATA[Igor Latyshev]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[test]]></title>
-    <link href="http://cyberdot.co.uk/archive/2014/07/14/test/"/>
+    <link href="http://cyberdot.co.uk/blog/archives/2014/07/14/test/"/>
     <updated>2014-07-14T19:48:32+01:00</updated>
-    <id>http://cyberdot.co.uk/archive/2014/07/14/test</id>
+    <id>http://cyberdot.co.uk/blog/archives/2014/07/14/test</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
