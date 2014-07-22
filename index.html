@@ -27,8 +27,10 @@
 	<link href="/favicon.png" rel="shortcut icon">
 	<link href="/css/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
 	<link rel="stylesheet" href="/css/code.css" type="text/css">
+	<link href="/css/jquery.fancybox.css" media="screen, projection" rel="stylesheet" type="text/css">
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-	<script src="/js/slash.js" async></script>
+	<script src="/javascripts/slash.js" async></script>
+	
 	
   	
 
@@ -84,6 +86,59 @@
 			<div class="mid-col-container">
 				<div id="content" class="inner">
 <div itemscope itemtype="http://schema.org/Blog">
+
+
+    <article class="post" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+	<h1 class="title" itemprop="name"><a href="/blog/archives/2014/07/21/octopress-github-pages-and-godaddy-custom-domain/" itemprop="url">Octopress, GitHub Pages and GoDaddy Custom Domain</a></h1>
+	<div class="meta">
+	<span class="date">
+
+
+
+  
+
+
+<time datetime="2014-07-21T08:27:41+01:00"  itemprop="datePublished">July 21, 2014</time></span>
+	<span class="tags">octopress, godaddy</span>
+	
+		
+  
+
+
+<span class="comments"><a href="/blog/archives/2014/07/21/octopress-github-pages-and-godaddy-custom-domain/#disqus_thread">comments</a></span>
+		
+</div>
+	<div class="entry-content" itemprop="articleBody">
+		<p>When I was setting up this blog using <a href="http://octopress.org">Octopress</a> I
+wanted to configure it to use my <a href="http://cyberdot.co.uk">cyberdot.co.uk</a> domain name.
+My domain registrar is GoDaddy.</p>
+
+<p>It turned out to be quite easy to do and here are the steps:</p>
+
+<ol>
+<li><p>Create a file named CNAME (it has to be in upper case) and save it in your octopress/source directory.</p>
+
+<p><img src="/images/posts/cname_src.png" alt="CNAME file" /></p></li>
+<li><p>Open CNAME file with your favourite text editor and type in your domain name (in my case it was <a href="http://cyberdot.co.uk">cyberdot.co.uk</a>)</p></li>
+<li>Don&rsquo;t forget to commit your file to git and then deploy your octopress blog to GitHub.</li>
+<li><p>Log in to your GoDaddy account, open &ldquo;Domain details&rdquo; page and click on &ldquo;DNS Zone file&rdquo; tab for your domain</p>
+
+<p><img src="/images/posts/godaddy_domain_details.png" alt="GoDaddy domain details" /></p></li>
+<li><p>Update A record IP address value to: <strong>192.30.252.153</strong></p>
+
+<p><img src="/images/posts/a_host_update.png" alt="A record IP" /></p></li>
+<li><p>Also update www ALIAS records to your username.github.io account</p>
+
+<p><img src="/images/posts/www_update.png" alt="www ALIAS update" /></p></li>
+<li><p>Give it some time and lo and behold, you&rsquo;ve got Octopress + GitHub pages working with custom domain.</p></li>
+</ol>
+
+
+		
+		
+	</div>
+
+</article>
 
 
     <article class="post" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
@@ -154,6 +209,17 @@
   </script>
 
 
+<script src="/javascripts/jquery.fancybox.pack.js"></script>
+<script type="text/javascript">
+(function($){
+	$('.fancybox').fancybox({
+		'autoScale': true,
+		'autoDimensions': false,
+		'showCloseButton': true,
+		'showNavArrows': false
+	});
+})(jQuery);
+</script>
 </footer>
 		</div>
 	</div>

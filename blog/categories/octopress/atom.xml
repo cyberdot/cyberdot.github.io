@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Cyberdot]]></title>
-  <link href="http://cyberdot.co.uk/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Octopress | Cyberdot]]></title>
+  <link href="http://cyberdot.co.uk/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://cyberdot.co.uk/"/>
   <updated>2014-07-22T22:19:12+01:00</updated>
   <id>http://cyberdot.co.uk/</id>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Octopress, GitHub pages and GoDaddy custom domain]]></title>
+    <title type="html"><![CDATA[Octopress, GitHub Pages and GoDaddy Custom Domain]]></title>
     <link href="http://cyberdot.co.uk/blog/archives/2014/07/21/octopress-github-pages-and-godaddy-custom-domain/"/>
     <updated>2014-07-21T08:27:41+01:00</updated>
     <id>http://cyberdot.co.uk/blog/archives/2014/07/21/octopress-github-pages-and-godaddy-custom-domain</id>
@@ -27,30 +27,21 @@ My domain registrar is GoDaddy.</p>
 <ol>
 <li><p>Create a file named CNAME (it has to be in upper case) and save it in your octopress/source directory.</p>
 
-<p><img src="http://cyberdot.co.uk/images/posts/cname_src.png" alt="CNAME file" /></p></li>
+<p><img src="/images/posts/cname_src.png" alt="CNAME file" /></p></li>
 <li><p>Open CNAME file with your favourite text editor and type in your domain name (in my case it was <a href="http://cyberdot.co.uk">cyberdot.co.uk</a>)</p></li>
 <li>Don&rsquo;t forget to commit your file to git and then deploy your octopress blog to GitHub.</li>
 <li><p>Log in to your GoDaddy account, open &ldquo;Domain details&rdquo; page and click on &ldquo;DNS Zone file&rdquo; tab for your domain</p>
 
-<p><img src="http://cyberdot.co.uk/images/posts/godaddy_domain_details.png" alt="GoDaddy domain details" /></p></li>
+<p><img src="/images/posts/godaddy_domain_details.png" alt="GoDaddy domain details" /></p></li>
 <li><p>Update A record IP address value to: <strong>192.30.252.153</strong></p>
 
-<p><img src="http://cyberdot.co.uk/images/posts/a_host_update.png" alt="A record IP" /></p></li>
+<p><img src="/images/posts/a_host_update.png" alt="A record IP" /></p></li>
 <li><p>Also update www ALIAS records to your username.github.io account</p>
 
-<p><img src="http://cyberdot.co.uk/images/posts/www_update.png" alt="www ALIAS update" /></p></li>
+<p><img src="/images/posts/www_update.png" alt="www ALIAS update" /></p></li>
 <li><p>Give it some time and lo and behold, you&rsquo;ve got Octopress + GitHub pages working with custom domain.</p></li>
 </ol>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[test]]></title>
-    <link href="http://cyberdot.co.uk/blog/archives/2014/07/14/test/"/>
-    <updated>2014-07-14T19:48:32+01:00</updated>
-    <id>http://cyberdot.co.uk/blog/archives/2014/07/14/test</id>
-    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
