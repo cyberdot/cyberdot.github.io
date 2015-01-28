@@ -3,6 +3,12 @@
   
   
   <url>
+    <loc>http://cyberdot.co.uk/blog/archives/2015/01/28/how-to-learn-new-programming-language/</loc>
+    <lastmod>2015-01-28T20:55:09+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://cyberdot.co.uk/blog/archives/2014/07/21/octopress-github-pages-and-godaddy-custom-domain/</loc>
     <lastmod>2014-07-21T08:27:41+01:00</lastmod>
     <priority>0.8</priority>
@@ -11,28 +17,28 @@
   
   <url>
     <loc>http://cyberdot.co.uk/blog/archives/</loc>
-    <lastmod>2014-07-22T23:09:30+01:00</lastmod>
+    <lastmod>2015-01-28T21:04:47+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://cyberdot.co.uk/</loc>
-    <lastmod>2014-07-22T23:09:30+01:00</lastmod>
+    <lastmod>2015-01-28T21:04:47+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://cyberdot.co.uk/blog/categories/</loc>
-    <lastmod>2014-07-22T23:09:30+01:00</lastmod>
+    <lastmod>2015-01-28T21:04:47+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://cyberdot.co.uk/about/</loc>
-    <lastmod>2014-07-22T23:09:30+01:00</lastmod>
+    <lastmod>2015-01-28T21:04:47+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

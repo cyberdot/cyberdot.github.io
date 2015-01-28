@@ -4,14 +4,23 @@
   <title><![CDATA[Cyberdot]]></title>
   <link href="http://cyberdot.co.uk/atom.xml" rel="self"/>
   <link href="http://cyberdot.co.uk/"/>
-  <updated>2014-07-22T23:09:30+01:00</updated>
+  <updated>2015-01-28T21:04:47+00:00</updated>
   <id>http://cyberdot.co.uk/</id>
   <author>
-    <name><![CDATA[Igor Latyshev]]></name>
+    <name><![CDATA[cyberdot]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Applying effective learning techniques when studying a new programming language]]></title>
+    <link href="http://cyberdot.co.uk/blog/archives/2015/01/28/how-to-learn-new-programming-language/"/>
+    <updated>2015-01-28T20:55:09+00:00</updated>
+    <id>http://cyberdot.co.uk/blog/archives/2015/01/28/how-to-learn-new-programming-language</id>
+    <content type="html"><![CDATA[<p>Test</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Octopress, GitHub pages and GoDaddy custom domain]]></title>

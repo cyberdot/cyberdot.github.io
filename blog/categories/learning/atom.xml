@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Learning | Cyberdot]]></title>
+  <link href="http://cyberdot.co.uk/blog/categories/learning/atom.xml" rel="self"/>
+  <link href="http://cyberdot.co.uk/"/>
+  <updated>2015-01-28T21:04:47+00:00</updated>
+  <id>http://cyberdot.co.uk/</id>
+  <author>
+    <name><![CDATA[cyberdot]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Applying Effective Learning Techniques When Studying a New Programming Language]]></title>
+    <link href="http://cyberdot.co.uk/blog/archives/2015/01/28/how-to-learn-new-programming-language/"/>
+    <updated>2015-01-28T20:55:09+00:00</updated>
+    <id>http://cyberdot.co.uk/blog/archives/2015/01/28/how-to-learn-new-programming-language</id>
+    <content type="html"><![CDATA[<p>Test</p>
+]]></content>
+  </entry>
+  
+</feed>
