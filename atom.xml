@@ -4,7 +4,7 @@
   <title><![CDATA[Cyberdot]]></title>
   <link href="http://cyberdot.co.uk/atom.xml" rel="self"/>
   <link href="http://cyberdot.co.uk/"/>
-  <updated>2015-01-28T22:04:58+00:00</updated>
+  <updated>2015-01-28T23:32:41+00:00</updated>
   <id>http://cyberdot.co.uk/</id>
   <author>
     <name><![CDATA[cyberdot]]></name>
@@ -22,8 +22,8 @@
 wasting too much time?
 How do you ensure that what you&rsquo;ve just learned is retained in your memory
 and you can effortlessly recall and use your knowledge in a week, a month, a year?
-How do you keep up with new libraries, solutions and frameworks used by
-a programming language?</p>
+How do you keep up with new libraries, solutions and frameworks within the ecosystem
+of the programming language?</p>
 
 <p>These were the questions I always asked myself when I was trying to learn
 a new programming language or a new programming framework. Things were painful for me,
@@ -49,7 +49,8 @@ language</li>
 <p><strong>Dealing with procrastination</strong></p>
 
 <p>My biggest issue when learning a new programming language was inability to force
-myself to do it regularly. There&rsquo;s always something or other to attend to and as
+myself to do it regularly. There&rsquo;s always something or other to attend to or I might
+not be simply in the mood and as
 a result I&rsquo;d cram as much learning material as possible in the hopes that it will
 stay there. It&rsquo;s always difficult to start learning at the beginning, as the amount
 of the material to be covered seems to be daunting.</p>
@@ -60,14 +61,15 @@ so that it can be worked on for short periods at a time.
 Start with the most difficult concepts first as the brain is still fresh in the morning.
 Use &ldquo;pomodoro&rdquo; technique, which allows you to focus on a task for a short period of time.
 When doing a &ldquo;pomodoro&rdquo; make sure there are no distractions, concentrate on your learning
-material completely. After &ldquo;pomodoro&rdquo; is finished, relax for a while and reward yourself.</p>
+material completely. After &ldquo;pomodoro&rdquo; is finished, relax for a while and reward yourself
+to enforce the habit.</p>
 
-<p>Also, at the end of the &ldquo;pomodoro&rdquo; try to recall the material that has just been learnt.
-Doing learning in this way will ensure that spaced repetition is used and the proper
-neuro structures are built.</p>
+<p>At the end of the &ldquo;pomodoro&rdquo; session try to recall the material that has just been learnt.
+Doing learning in this way will ensure that spaced repetition is used and the solid
+neuro structures in your brain are built.</p>
 
-<p>Another good habit is to plan quitting time so that there is a change for you
-to use the diffuse mode of thinking. As this mode of studying becomes the routine,
+<p>Another good habit is to plan quitting time so that there is a chance for you to
+have change of activity and use the diffuse mode of thinking. As this mode of studying becomes the routine,
 it becomes much easier to beat procrastination.</p>
 
 <p><strong>Focused and diffuse mode of thinking</strong></p>
@@ -76,7 +78,7 @@ it becomes much easier to beat procrastination.</p>
 
 <p><strong>Deliberate practice and how to do it right.</strong></p>
 
-<p>In his well known essay &ldquo;Teach Yourself Programming in Ten Years&rdquo;, Peter Norvig, argues
+<p>In his well known essay &ldquo;Teach Yourself Programming in Ten Years&rdquo;, Peter Norvig argues
 that to become an expert in something, one has to spend 10,000 hours or ten years of purposeful learning.</p>
 
 <p>&ldquo;The key is deliberative practice: not just doing it again and again,
@@ -101,17 +103,35 @@ by highly experienced individuals as a result of deliberate efforts to improve.&
 <p>Just reading new material and re-reading it again, creates illusion that you must know it already.
 It&rsquo;s a familiar problem, multiple times, after reading up on some programming language concept,
 I had this feeling that I have fully grasped it. Only to be proven wrong, when actually trying to solve
-some problem later involving the concept. This is called illusion of learning.</p>
+some problem later and trying to implement the concept, I thought, I understood really well.
+This is called illusion of learning.</p>
 
 <p>It seems it&rsquo;s quite easy to find out whether you have actually learned the material or you are
 under illusion. Recall and testing will definitely show if that&rsquo;s the case.
 After reading up on a concept, or at the end of a pomodoro session, try to recall the main
 points of the material without looking into the book or using any other help.</p>
 
-<p>Testing yourself will insure that neural patterns in your brain are stabilized. Mistakes during
-self-testing help to correct your thinking and will ensure that you will do better and better.</p>
+<p>Using flash cards (which use concept of spaced repetition), will help to learn basic concepts of the programming language syntax.
+I&rsquo;ve found Anki to be really invaluable for this purpose.</p>
 
-<p>Right mindset and sleep</p>
+<p>Testing yourself will insure that neural patterns in your brain are stabilized. Mistakes during
+self-testing help to correct your thinking and will ensure that you will do better and better every time.</p>
+
+<p><strong>Right mindset and sleep</strong></p>
+
+<p>The importance of sleep somehow is getting lost on us programmers. It&rsquo;s considered cool
+among my fellow software developers to power through an all-nighter session of programming
+fueled by caffeine and then show up to work. How effective is that person going to be at
+performing their duties, again supported by caffeine?</p>
+
+<p>As research shows, brain creates toxic products when you are awake so when you are asleep
+brain cells shrink and toxins are washed out. So in this way, the brain can keep itself healthy.
+In addition, during sleep brain seems to perform a bit of housekeeping tasks on the ideas and
+concepts you were learning and working with. Less important parts of memories are erased and
+the ones you consider important are strengthened.</p>
+
+<p>Studying right before you are going to sleep can substantially enhance your ability to understand
+the material, it somehow consolidates your memories into easier to grasp chunks.</p>
 ]]></content>
   </entry>
   
