@@ -1,17 +1,17 @@
 v1.
-{<<"/home/egor/Projects/cyberdot_blog/_build/dev/lib/chronos/ebin/Elixir.Chronos.Validation.beam">>,
+{<<"/home/egor/Projects/weblog_dev/_build/dev/lib/chronos/ebin/Elixir.Chronos.Validation.beam">>,
  'Elixir.Chronos.Validation',<<"lib/chronos/validation.ex">>,
  ['Elixir.Kernel'],
  [erlang,'Elixir.String.Chars','Elixir.ArgumentError',calendar],
  [],nil}.
-{<<"/home/egor/Projects/cyberdot_blog/_build/dev/lib/chronos/ebin/Elixir.Chronos.Formatter.beam">>,
+{<<"/home/egor/Projects/weblog_dev/_build/dev/lib/chronos/ebin/Elixir.Chronos.Formatter.beam">>,
  'Elixir.Chronos.Formatter',<<"lib/chronos/formatter.ex">>,
- ['Elixir.String','Elixir.Module','Elixir.Kernel'],
- [erlang,'Elixir.Enum','Elixir.String.Chars',calendar,'Elixir.Chronos'],
+ ['Elixir.Module','Elixir.String','Elixir.Kernel'],
+ [erlang,'Elixir.String.Chars','Elixir.Chronos',calendar,'Elixir.Enum'],
  [],nil}.
-{<<"/home/egor/Projects/cyberdot_blog/_build/dev/lib/chronos/ebin/Elixir.Chronos.beam">>,
+{<<"/home/egor/Projects/weblog_dev/_build/dev/lib/chronos/ebin/Elixir.Chronos.beam">>,
  'Elixir.Chronos',<<"lib/chronos.ex">>,
- ['Elixir.Module','Elixir.Kernel','Elixir.Chronos.Validation'],
- ['Elixir.Access',erlang,'Elixir.Enum','Elixir.ArgumentError',
-  'Elixir.Keyword',calendar],
+ ['Elixir.Module','Elixir.Chronos.Validation','Elixir.Kernel'],
+ [erlang,'Elixir.ArgumentError',calendar,'Elixir.Keyword','Elixir.Enum',
+  'Elixir.Access'],
  [],nil}.

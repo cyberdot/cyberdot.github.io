@@ -32,7 +32,7 @@
 	
                 </div>
 	        <hgroup>
-  		   <h1><a href="/">CyberDot</a></h1>
+  		   <h1><a href="/">CYBERDOT</a></h1>
   		   <h2>.NET and Elixir development.</h2>
                 </hgroup>
                 <nav id="main-nav">
@@ -41,14 +41,14 @@
 		     <li><a href="/blog/archives">archives</a></li>
 		   </ul>
 		   <section class="aboutme">
-		     <p>.NET and Elixir development.</p>
+		     <p></p>
 		   </section>
 
 		</nav>
 		<nav id="sub-nav">
 		   <div class="social">		
 			<a class="github" href="https://github.com/cyberdot" title="GitHub">GitHub</a>
-		        <a class="rss" href="/atom.xml" title="RSS">RSS</a>
+		        <a class="rss" href="/blog.rss" title="RSS">RSS</a>
 		   </div>
 		</nav>
 	     </header>				
