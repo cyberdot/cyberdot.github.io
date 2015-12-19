@@ -1,0 +1,5 @@
+v1.
+{<<"_build/dev/lib/cyberdot_blog/ebin/Elixir.CyberdotBlog.beam">>,
+ 'Elixir.CyberdotBlog',<<"lib/cyberdot_blog.ex">>,
+ ['Elixir.Kernel'],
+ [],[],nil}.

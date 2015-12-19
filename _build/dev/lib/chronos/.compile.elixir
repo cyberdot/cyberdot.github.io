@@ -1,0 +1,17 @@
+v1.
+{<<"/home/egor/Projects/cyberdot_blog/_build/dev/lib/chronos/ebin/Elixir.Chronos.Validation.beam">>,
+ 'Elixir.Chronos.Validation',<<"lib/chronos/validation.ex">>,
+ ['Elixir.Kernel'],
+ [erlang,'Elixir.String.Chars','Elixir.ArgumentError',calendar],
+ [],nil}.
+{<<"/home/egor/Projects/cyberdot_blog/_build/dev/lib/chronos/ebin/Elixir.Chronos.Formatter.beam">>,
+ 'Elixir.Chronos.Formatter',<<"lib/chronos/formatter.ex">>,
+ ['Elixir.String','Elixir.Module','Elixir.Kernel'],
+ [erlang,'Elixir.Enum','Elixir.String.Chars',calendar,'Elixir.Chronos'],
+ [],nil}.
+{<<"/home/egor/Projects/cyberdot_blog/_build/dev/lib/chronos/ebin/Elixir.Chronos.beam">>,
+ 'Elixir.Chronos',<<"lib/chronos.ex">>,
+ ['Elixir.Module','Elixir.Kernel','Elixir.Chronos.Validation'],
+ ['Elixir.Access',erlang,'Elixir.Enum','Elixir.ArgumentError',
+  'Elixir.Keyword',calendar],
+ [],nil}.

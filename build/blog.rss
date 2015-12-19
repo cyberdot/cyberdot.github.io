@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+  <title>CyberDot</title>
+  <link>http://cyberdot.co.uk</link>
+  <description>.NET and Elixir development</description>
+  <lastBuildDate>2015-12-19 20:44:25</lastBuildDate>
+  <language>en-gb</language>
+<item>
+  <title>Welcome to Obelisk</title>
+  <description>[CDATA[ A new blog post ]]</description>
+  <pubDate>2015-12-19</pubDate>
+  <link>http://cyberdot.co.uk/2015-12-19-welcome-to-obelisk.html</link>
+  <guid>http://cyberdot.co.uk/2015-12-19-welcome-to-obelisk.html</guid>
+</item>
+</channel>
+</rss>

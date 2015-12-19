@@ -1,0 +1,2 @@
+defmodule CyberdotBlog do
+end
