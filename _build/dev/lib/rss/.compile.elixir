@@ -1,6 +1,0 @@
-v1.
-{<<"/home/egor/Projects/weblog_dev/_build/dev/lib/rss/ebin/Elixir.RSS.beam">>,
- 'Elixir.RSS',<<"lib/rss.ex">>,
- ['Elixir.Kernel'],
- ['Elixir.String.Chars','Elixir.Enum'],
- [],nil}.

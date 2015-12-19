@@ -1,6 +1,0 @@
-v1.
-{<<"/home/egor/Projects/weblog_dev/_build/dev/lib/mock/ebin/Elixir.Mock.beam">>,
- 'Elixir.Mock',<<"lib/mock.ex">>,
- ['Elixir.Module','Elixir.Kernel'],
- [meck],
- [],nil}.

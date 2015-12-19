@@ -1,6 +1,0 @@
-v1.
-{<<"/home/egor/Projects/weblog_dev/_build/dev/lib/anubis/ebin/Elixir.Anubis.beam">>,
- 'Elixir.Anubis',<<"lib/anubis.ex">>,
- ['Elixir.Kernel'],
- ['Elixir.String.Chars'],
- [],nil}.
