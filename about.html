@@ -65,55 +65,16 @@
            <div class="mid-col-container">
            <div id="content" class="inner">   
            
-           
-         <div itemscope itemtype="http://schema.org/Blog">
-	  <article class="post" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
-<h1 class="title" itemprop="name"><a href="2014-07-21-octopress-github-pages-and-godaddy-custom-domain.html" itemprop="url">GitHub pages with GoDaddy cusom domain</a></h1>
-<div class="meta">
-   <span class="date"><time datetime="July, 21 2014" itemprop="datePublished">July, 21 2014</time></span>
-   <span class="tags">octopress, GoDaddy</span>
-   <span class="comments"><a href="2014-07-21-octopress-github-pages-and-godaddy-custom-domain.html#comments">comments</a></span>
-</div>
-<div class="entry-content" itemprop="articleBody"><p>When I was setting up this blog using <a href="http://octopress.org">Octopress</a> I
-wanted to configure it to use my <a href="http://cyberdot.co.uk">cyberdot.co.uk</a> domain name.
-My domain registrar is GoDaddy.</p>
-<p>It turned out to be quite easy to do and here are the steps:</p>
-<ol>
-<li>Create a file named CNAME (it has to be in upper case) and save it in your octopress/source directory.
-   <img src="/assets/img/posts/cname_src.png" alt="CNAME file" title="CNAME file"/>
-</li>
-<li>Open CNAME file with your favourite text editor and type in your domain name (in my case it was <a href="http://cyberdot.co.uk">cyberdot.co.uk</a> )
-</li>
-<li>Don’t forget to commit your file to git and then deploy your generated blog to GitHub.
-</li>
-<li>Log in to your GoDaddy account, open “Domain details” page and click on “DNS Zone file” tab for your domain
-  <img src="/assets/img/posts/godaddy_domain_details.png" alt="GoDaddy domain details" title="GoDaddy domain details"/>
-</li>
-<li>Update A record IP address value to: <strong>192.30.252.153</strong>
-  <img src="/assets/img/posts/a_host_update.png" alt="A record IP" title="A record IP"/>
-</li>
-<li>Also update www ALIAS records to your username.github.io account
-  <img src="/assets/img/posts/www_update.png" alt="www ALIAS update" title="www ALIAS update"/>
-</li>
-<li>Give it some time and lo and behold, you’ve got GitHub pages working with your GoDaddy custom domain.
-</li>
-</ol>
-</div>
+           <article class="page">
+   <h1 class="title">About</h1>
+
+ <div class="entry-content">
+  <h2>Who I am</h2>
+<p>I am an independent software developer specialising in web development using .NET tech stack.</p>
+<p>In my free time I enjoy hiking, learning new programming and human languages and playing piano.</p>
+
+ </div>
 </article>
-
-
-
-
-
-          </div>
-	  <nav id="pagenavi">
-	     <div class="center">
-	         
-                 
-             </div>
-          </nav>
-      </div>
-
 
 
 	      <footer id="footer" class="inner">
