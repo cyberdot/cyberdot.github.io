@@ -27,6 +27,6 @@ defmodule CyberdotBlog.Mixfile do
   #
   # Type "mix help deps" for more examples and options
   defp deps do
-    [{:obelisk, "~> 0.10.0"}, {:yamerl, github: "yakaz/yamerl"}]
+    [{:obelisk, github: "cyberdot/obelisk"}, {:yamerl, github: "yakaz/yamerl"}]
   end
 end
