@@ -2,17 +2,17 @@
 title: GitHub pages with GoDaddy cusom domain
 description: How to configure your GitHub website using GoDaddy custom domain
 created: July, 21 2014
-tags: octopress, GoDaddy
+tags: static blog generator, GoDaddy
 ---
 
 
-When I was setting up this blog using [Octopress](http://octopress.org) I
+When I was setting up this blog using customised version of [Obelisk](https://github.com/BennyHallett/obelisk) I
 wanted to configure it to use my [cyberdot.co.uk](http://cyberdot.co.uk) domain name.
 My domain registrar is GoDaddy.
 
 It turned out to be quite easy to do and here are the steps:
 
-1. Create a file named CNAME (it has to be in upper case) and save it in your octopress/source directory.
+1. Create a file named CNAME (it has to be in upper case) and save it in your octopress/source&nbsp;directory.
    ![CNAME file](/assets/img/posts/cname_src.png "CNAME file")
 2. Open CNAME file with your favourite text editor and type in your domain name (in my case it was [cyberdot.co.uk](http://cyberdot.co.uk) )
 3. Don't forget to commit your file to git and then deploy your generated blog to GitHub.
