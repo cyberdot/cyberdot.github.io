@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+  <title>CyberDot</title>
+  <link>http://cyberdot.co.uk</link>
+  <description>.NET and Elixir development</description>
+  <lastBuildDate>2016-03-25 18:34:54</lastBuildDate>
+  <language>en-gb</language>
+<item>
+  <title>GitHub pages with GoDaddy cusom domain</title>
+  <description>[CDATA[ How to configure your GitHub website using GoDaddy custom domain ]]</description>
+  <pubDate>2014-07-21</pubDate>
+  <link>http://cyberdot.co.uk/2014-07-21-github-pages-and-godaddy-custom-domain.html</link>
+  <guid>http://cyberdot.co.uk/2014-07-21-github-pages-and-godaddy-custom-domain.html</guid>
+</item>
+</channel>
+</rss>
