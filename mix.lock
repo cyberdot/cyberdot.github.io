@@ -8,5 +8,4 @@
   "poison": {:hex, :poison, "2.1.0"},
   "ranch": {:hex, :ranch, "1.2.1"},
   "rss": {:hex, :rss, "0.2.1"},
-  "xylograph": {:git, "https://github.com/cyberdot/xylograph.git", "dfd79595667b1d5be63aa18f468d5e71948430ce", []}
-  }
+  "xylograph": {:git, "https://github.com/cyberdot/xylograph.git", "b9d1b2fe083d2ac56dcc148e6c0ab8333cda6264", []}}
