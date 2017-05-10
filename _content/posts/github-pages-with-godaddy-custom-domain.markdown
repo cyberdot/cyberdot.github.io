@@ -8,14 +8,15 @@
 }
 
 
-When I was setting up this blog using my customised version of [Obelisk](https://github.com/cyberdot/xylograph) I
-wanted to configure it to use my [cyberdot.co.uk](http://cyberdot.co.uk) domain name.
+When I was setting up this blog using [Dnevnik](https://github.com/cyberdot/dnevnik) static site generator
+on GitHub Pages, I wanted to configure it to use my [cyberdot.co.uk](http://cyberdot.co.uk) domain name.
  
 My domain registrar is GoDaddy.
 
 It turned out to be quite easy to do and here are the steps:
 
-1. Create a file named CNAME (it has to be in upper case) and save it in your octopress source&nbsp;directory.
+1. Create a file named CNAME (it has to be in upper case) and save it in your generated web log root directory.
+
    [![CNAME file](/assets/img/posts/cname_src.png "CNAME file")](/assets/img/posts/cname_src.png "CNAME file")
 
 2. Open CNAME file with your favourite text editor and type in your domain name (in my case it was [cyberdot.co.uk](http://cyberdot.co.uk) )
