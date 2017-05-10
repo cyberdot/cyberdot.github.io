@@ -1,7 +1,0 @@
-<article class="page">
-   <h1 class="title"><%= @frontmatter.title %></h1>
-
- <div class="entry-content">
-  <%= @content %>
- </div>
-</article>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+  <title></title>
+  <link></link>
+  <description></description>
+  <lastBuildDate>2017-05-10T11:57:22Z</lastBuildDate>
+  <language>en-gb</language>
+<item>
+  <title>Welcome to Dnevnik</title>
+  <description>[CDATA[ A new blog post ]]</description>
+  <pubDate>welcome-to</pubDate>
+  <link>/welcome-to-dnevnik.html</link>
+  <guid>/welcome-to-dnevnik.html</guid>
+</item>
+<item>
+  <title>GitHub pages with GoDaddy custom domain</title>
+  <description>[CDATA[ How to configure your GitHub website using GoDaddy custom domain ]]</description>
+  <pubDate>github-pag</pubDate>
+  <link>/github-pages-with-godaddy-custom-domain.html</link>
+  <guid>/github-pages-with-godaddy-custom-domain.html</guid>
+</item>
+</channel>
+</rss>
