@@ -33,7 +33,8 @@
 	  </div>
 
 	  <nav class="sidebar-nav">
-		<a class="sidebar-nav-item active" href="/">Home</a>    
+		<a class="sidebar-nav-item active" href="/">Home</a> 
+		<a class="sidebar-nav-item" href="bookshelf.html">Bookshelf</a>
 		<a class="sidebar-nav-item" href="about.html">About</a>
 		<a class="sidebar-nav-item" href="tags/index.html">Tags</a>
 		<a class="sidebar-nav-item" href="https://github.com/<%= @config.github %>">GitHub</a>
