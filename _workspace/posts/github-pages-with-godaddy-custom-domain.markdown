@@ -1,4 +1,3 @@
-
 {
 "title": "GitHub pages with GoDaddy custom domain",
 "description": "How to configure your GitHub website using GoDaddy custom domain",
@@ -33,6 +32,3 @@ It turned out to be quite easy to do and here are the steps:
   [![www ALIAS update](/assets/img/posts/www_update.png "www ALIAS update")](/assets/img/posts/www_update.png "www ALIAS update")
 
 7. Give it some time and lo and behold, you've got GitHub pages working with your GoDaddy custom domain.
-
-
-

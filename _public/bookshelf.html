@@ -8,10 +8,12 @@
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
   <base href="/" />
-  <title><%= @config.name %></title>
+  <title>CyberDot</title>
 
   <!-- CSS -->
-  <%= @css %>
+  <link rel="stylesheet" href="assets/css/01_poole.css" />
+<link rel="stylesheet" href="assets/css/02_syntax.css" />
+<link rel="stylesheet" href="assets/css/03_lanyon.css" />
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700|PT+Sans:400">
  
 
@@ -33,10 +35,11 @@
 	  </div>
 
 	  <nav class="sidebar-nav">
-		<a class="sidebar-nav-item active" href="/">Home</a>    
+		<a class="sidebar-nav-item active" href="/">Home</a>   
+	    <a class="sidebar-nav-item" href="bookshelf.html">Bookshelf</a>
 		<a class="sidebar-nav-item" href="about.html">About</a>
 		<a class="sidebar-nav-item" href="tags/index.html">Tags</a>
-		<a class="sidebar-nav-item" href="https://github.com/<%= @config.github %>">GitHub</a>
+		<a class="sidebar-nav-item" href="https://github.com/cyberdot">GitHub</a>
 	  </nav>
 
 	  <div class="sidebar-item">
@@ -53,14 +56,20 @@
       <div class="masthead">
         <div class="container">
           <h3 class="masthead-title">
-            <a href="/" title="Home"><%= @config.name %></a>
-            <small><%= @config.description %></small>
+            <a href="/" title="Home">CyberDot</a>
+            <small> code never lies, comments sometimes do</small>
           </h3>
         </div>
       </div>
 
       <div class="container content">
-		<%= @content %>
+		<div class="page">
+	<h1 class="page-title">Bookshelf</h1>
+	<h3>2018</h3>
+<p>1 book read</p>
+<p> <a href="https://www.amazon.co.uk/Merchants-Doubt-Handful-Scientists-Obscured/dp/1408824833"><img src="/assets/img/books/merchants-of-doubt.jpg" alt="Merchants of Doubt"/></a></p>
+
+</div>
 	  </div>
      
     </div>
