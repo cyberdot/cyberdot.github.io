@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://cyberdot.co.uk/sitemap.xml
