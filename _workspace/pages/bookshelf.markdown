@@ -7,10 +7,10 @@
 
 ### 2018
  
-2 books read
+3 books read
  
- <a href="https://www.amazon.co.uk/Merchants-Doubt-Handful-Scientists-Obscured/dp/1408824833">
- <img style="display:inline;margin-right: 15px;" src="/assets/img/books/merchants-of-doubt.jpg" width="300" height="470" /></a><a href="https://www.amazon.co.uk/Sapiens-Humankind-Yuval-Noah-Harari/dp/1846558239"><img src="/assets/img/books/sapiens.jpg" style="display:inline" width="300" height="470" /></a>
+ <a href="http://amzn.to/2D918Oj">
+ <img style="display:inline;margin-right: 15px;" src="/assets/img/books/merchants-of-doubt.jpg" width="300" height="470" /></a><a href="http://amzn.to/2EFAYyQ"><img src="/assets/img/books/sapiens.jpg" style="display:inline" width="300" height="470" /></a><a href="http://amzn.to/2EGveoP"><img src="/assets/img/books/startingstrength.jpg" style="display:inline" width="300" height="470" /></a>
 
  
  
