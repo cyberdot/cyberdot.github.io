@@ -7,10 +7,10 @@
 
 ### 2018
  
-3 books read
+4 books read
  
  <a href="http://amzn.to/2D918Oj">
- <img style="display:inline;margin-right: 15px;" src="/assets/img/books/merchants-of-doubt.jpg" width="300" height="470" /></a><a href="http://amzn.to/2EFAYyQ"><img src="/assets/img/books/sapiens.jpg" style="display:inline" width="300" height="470" /></a><a href="http://amzn.to/2EGveoP"><img src="/assets/img/books/startingstrength.jpg" style="display:inline" width="300" height="470" /></a>
+ <img style="display:inline;margin-right: 15px;" src="/assets/img/books/merchants-of-doubt.jpg" width="300" height="470" /></a><a href="http://amzn.to/2EFAYyQ"><img src="/assets/img/books/sapiens.jpg" style="display:inline" width="300" height="470" /></a><a href="http://amzn.to/2EGveoP"><img src="/assets/img/books/startingstrength.jpg" style="display:inline" width="300" height="470" /></a><a href="http://amzn.to/2naneFd"><img style="display:inline" width="300" height="470" src="assets/img/books/deus.jpg" /></a>
 
  
  
